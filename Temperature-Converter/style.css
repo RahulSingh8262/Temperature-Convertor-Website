@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+    color:#fff;
+}
+
+.h1{
+    font-size: 80px;
+}
+label{
+    font-size: 30px;
+}
+.container{
+    text-align: center;
+    margin-top: 150px;
+}
+
+input{
+    border-color: cyan;
+    box-shadow: 0px 5px 10px cyan;
+    font-size: 30px;
+}
+
+.button{
+    background-color: blue;
+    color: #fff;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 25px;
+    border-radius: 60px;
+
+}
